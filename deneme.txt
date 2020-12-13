@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 12345
+=======
+09876
+>>>>>>> Stashed changes
