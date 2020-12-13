@@ -1,1 +1,1 @@
-# BLLegitim
+Çalıştırmadan önce python yüklü olmalıdır.
